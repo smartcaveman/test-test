@@ -1,3 +1,6 @@
+v.0.4
+finally collaboration event
+
 v.0.3
 new event in the main history
 
