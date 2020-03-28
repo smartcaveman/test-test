@@ -1,3 +1,6 @@
+v.0.5
+modified by member in browser
+
 v.0.4
 finally collaboration event
 
